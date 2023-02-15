@@ -56,8 +56,7 @@ Project Requirement
       <li> Email : [ Validation Rules : Accept only valid email address, Required ] </li>
       <li> Password : [ Validation Rules : Accept only valid password min 8 lenght with alphanumeric, Required ] </li>
       <li> Confirm Password : [ Validation Rules : should be same as Password field, Required ] </li>
-      <li> On Registration button click send email verification link to registered email address </li>
-      <li> Use migrations scrpits for tables </li>
+      <li> On Registration button click send email verification link to registered email address </li>      
       <li> Generate 5 dummy sample for Admin role using Factory and Seeder </li>
       <li> Follow PHP/Laravel code standards </li>
       <li> Make Seprate dashboard view ,admin table and Admin model </li>
